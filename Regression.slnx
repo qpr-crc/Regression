@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Regression.CLI/Regression.CLI.csproj" Id="bc603ef7-2cbb-48e6-8470-a96ad2cf6d1c" />
+  <Project Path="Regression.Core/Regression.Core.csproj" Id="703a23a7-d0f2-45da-8d05-3634cc2507cd" />
+  <Project Path="Regression.ModelBuilder/Regression.ModelBuilder.csproj" Id="8aa646ab-488c-4be3-8c7b-2578e0268325" />
+</Solution>
